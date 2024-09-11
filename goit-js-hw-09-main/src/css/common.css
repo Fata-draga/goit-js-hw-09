@@ -20,13 +20,13 @@ img {
 button {
   border: none;
   border-radius: 20px;
-  background-color: rgb(144, 124, 255);
+  background-color: rgb(145, 20, 103);
   padding: 10px 40px;
   font-size: 18px;
 }
 
 button:focus {
-  background-color: rgb(170, 85, 250);
+  background-color: rgb(219, 50, 135);
   box-shadow: 2px 2px 2px 1px rgba(106, 106, 109, 0.2);
 }
 
